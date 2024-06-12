@@ -83,7 +83,7 @@ public class SimpleJPQLTests {
 
     }
 
-    @DisplayName("Query를 이요한 단일메뉴(단일행, 단일컬럼) 조회 테스트")
+    @DisplayName("Query를 이용한 단일메뉴(단일행, 단일컬럼) 조회 테스트")
     @Test
     void testSingleMenuByQuery() {
 
